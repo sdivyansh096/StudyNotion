@@ -4,7 +4,7 @@ import loginImg from "../assests/login.png"
 
 export const Login = ({setIsLoggedIn}) => {
   return (
-    <div>
+    <div className='h-screen'>
       <Template
           title="Welcome Back"
           desc1="Build skills for today, tomorrow, and beyond."
